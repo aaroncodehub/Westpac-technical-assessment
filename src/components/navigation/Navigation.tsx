@@ -1,3 +1,4 @@
+import React from "react";
 import AppBar from "@material-ui/core/AppBar";
 import Toolbar from "@material-ui/core/Toolbar";
 import LayoutContainer from "../layout/LayoutContainer";
@@ -33,4 +34,4 @@ function Navigation() {
   );
 }
 
-export default Navigation;
+export default React.memo(Navigation);
