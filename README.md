@@ -1,6 +1,6 @@
-## [Westpac technical assessment]
+## Westpac technical assessment
 
-[![Westpac technical assessment](https://firebasestorage.googleapis.com/v0/b/clothing-shop-d098d.appspot.com/o/reset-password.png?alt=media&token=ff6507dd-ba09-4945-b3b1-6192938a9364)]
+![Westpac technical assessment](https://firebasestorage.googleapis.com/v0/b/clothing-shop-d098d.appspot.com/o/reset-password.png?alt=media&token=ff6507dd-ba09-4945-b3b1-6192938a9364)
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
 ## Quick start
 
